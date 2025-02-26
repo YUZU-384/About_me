@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @YUZU-cuda384
-  - 😄 Pronouns:
+  - 😄 You can call me ...
     - YUZU or YZQueen
   - 👀 I’m interested in ...
     - e , py and c++
