@@ -7,8 +7,6 @@
     - e and YOLO
   - 📫 How to reach me ...
     - QQ 3399701293
-  - ⚡ Fun fact: ...
-    - don't have 
 
 <!---
 YUZU-cuda384/YUZU-cuda384 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
